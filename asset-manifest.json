@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MemoryCardGame/static/css/main.ba5b8883.css",
+    "main.js": "/MemoryCardGame/static/js/main.3b98ed61.js",
+    "static/media/goku.png": "/MemoryCardGame/static/media/goku.d6588d77ff289a9f181b.png",
+    "static/media/batman.png": "/MemoryCardGame/static/media/batman.2386b8649c658fbfa81f.png",
+    "static/media/superman.png": "/MemoryCardGame/static/media/superman.fa0d3ab2fb6ba45940c0.png",
+    "static/media/captain.png": "/MemoryCardGame/static/media/captain.d873341a69f8d7d14600.png",
+    "static/media/gohan.png": "/MemoryCardGame/static/media/gohan.21c09d8ccdeb1bb6b82f.png",
+    "static/media/ariel.png": "/MemoryCardGame/static/media/ariel.9651e97facd1bc60cc9a.png",
+    "static/media/raian.png": "/MemoryCardGame/static/media/raian.03af8c1f63e84beec7e3.png",
+    "static/media/wolverine.png": "/MemoryCardGame/static/media/wolverine.53539887a0b7734bde3f.png",
+    "static/media/panther.png": "/MemoryCardGame/static/media/panther.396d96b2e5d6bd4873fe.png",
+    "static/media/cover.png": "/MemoryCardGame/static/media/cover.682a9f6d895cde3ee58d.png",
+    "index.html": "/MemoryCardGame/index.html",
+    "main.ba5b8883.css.map": "/MemoryCardGame/static/css/main.ba5b8883.css.map",
+    "main.3b98ed61.js.map": "/MemoryCardGame/static/js/main.3b98ed61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba5b8883.css",
+    "static/js/main.3b98ed61.js"
+  ]
+}
